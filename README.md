@@ -1,12 +1,12 @@
 ## Hello World Android App
 
 ### App Description
-`TODO://` Built a simple Android Hello Worl App
+Built a simple Android Hello World App
 
 ### App Walk-though
-`TODO://` This app allows users to change the text colors and background color
+This app allows users to change the text color and background color
 
-<img src="" title='Video Walkthrough' alt='Video Walkthrough' width=450/><br>
+<img src="https://github.com/electrone901/android_hello_world/blob/master/walkthrough.gif" title='Video Walkthrough' alt='Video Walkthrough' width=450/><br>
 
 
 ### Required User Stories
